@@ -18,7 +18,7 @@ html {
 
 body {
   margin: 0;
-  font-family: "Manrope", sans-serif;
+  font-family: "DM Sans", sans-serif;
   color: var(--text);
   background: radial-gradient(circle at top right, #fff8ed 0%, var(--bg) 45%);
   line-height: 1.6;
@@ -55,7 +55,7 @@ img {
 .brand {
   text-decoration: none;
   color: var(--text);
-  font-family: "Cormorant Garamond", serif;
+  font-family: "Playfair Display", serif;
   font-size: 2rem;
   font-weight: 600;
 }
@@ -104,7 +104,7 @@ img {
 h1,
 h2,
 h3 {
-  font-family: "Cormorant Garamond", serif;
+  font-family: "Playfair Display", serif;
   line-height: 1.1;
   margin-top: 0;
 }
