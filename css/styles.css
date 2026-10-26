@@ -167,7 +167,9 @@ body {
 }
 
 .opening-notice {
-  padding: 0 0 1rem;
+  padding: 0.85rem 0;
+  background: var(--bg-alt);
+  border-bottom: 1px solid var(--line);
 }
 
 .opening-notice-content {
@@ -179,8 +181,7 @@ body {
   border: 1px solid var(--line);
   border-left: 4px solid var(--accent);
   border-radius: 14px;
-  background: var(--bg-alt);
-  box-shadow: var(--shadow);
+  background: #fffaf2;
 }
 
 .opening-notice-label {
